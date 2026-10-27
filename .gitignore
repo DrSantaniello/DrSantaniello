@@ -1,0 +1,8 @@
+# Video e foto: troppo pesanti per GitHub e possono contenere dati di pazienti
+media/
+
+# Chiavi API
+.env
+.env.local
+
+.DS_Store
